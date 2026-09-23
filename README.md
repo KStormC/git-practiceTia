@@ -1,2 +1,6 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Git Practice Article
+[Link:] (https://www.cbinsights.com/company/devopscom)
+
+
+
+*What's interesting is that it flips the usual hype. Instead of arguing that AI will make software development cheap across the board, it separates writing code from building software. AI has made it possible for even beginners to produce working scripts in minutes, but building reliable, scalable software is still expensive and high-stakes. The article draws on developer Chris Gregori, who argues that the hard parts are strategic architecture, rigorous testing, user-centric design, and ongoing maintenance, which AI can't fully automate yet.*
